@@ -67,7 +67,7 @@ The dashboard includes:
 
 ## 📷 Dashboard Preview
 
-![Blinkit Sales Dashboard](Dashboard.png)
+![Blinkit Sales Dashboard](Blinkit_Dashboard.png)
 
 ---
 
