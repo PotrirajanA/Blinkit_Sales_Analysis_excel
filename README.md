@@ -65,6 +65,12 @@ The dashboard includes:
 
 ---
 
+## 📷 Dashboard Preview
+
+![Blinkit Sales Dashboard](Dashboard.png)
+
+---
+
 ## 📂 Project Files
 
 | File | Description |
